@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>DiRoots.Public.FamilyManager</Name>
+		<Assembly>DiRoots.Public.FamilyManager\DiRoots.Public.FamilyManager.dll</Assembly>
+		<FullClassName>DR.Public.FM.Main</FullClassName>
+		<ClientId>25AC2FD7-A527-4C29-8A7A-C6E358F5AA3A</ClientId>
+		<VendorId>www.diroots.com</VendorId>
+		<VendorDescription>DiRoots.Public.FamilyManager</VendorDescription>
+	</AddIn>
+</RevitAddIns>
